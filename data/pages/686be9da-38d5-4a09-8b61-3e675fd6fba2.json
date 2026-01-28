@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-01-28T19:52:42.955Z",
+  "created_by": "karaculp",
+  "title": "Test 2",
+  "slug": "test-2",
+  "updated_at": "2026-01-28T19:52:42.955Z",
+  "updated_by": "karaculp",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "a0597d0b-a1e5-4c81-81f9-465b93cfc795"
+  }
+}
